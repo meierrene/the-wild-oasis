@@ -1,3 +1,3 @@
 # The Wild Oasis
 
-Main project in Jonas Schmedtmann's ULtimate React Course.
+Main project in Jonas Schmedtmann's Ultimate React Course.
