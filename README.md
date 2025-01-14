@@ -108,13 +108,13 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/meierrene/the-wild-oasis.git
+   git clone <repository-url>
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd the-wild-oasis
+   cd 17-the-wild-oasis
    ```
 
 3. Install dependencies:
@@ -162,9 +162,18 @@
 - **`apiCabins.js`**: CRUD operations for cabins.
 - **`apiSettings.js`**: Fetches and updates settings.
 
+## Deployment
+
+The staff-side web application is deployed on Vercel. You can access it here:
+[The Wild Oasis Staff-Side Application](https://the-wild-oasis-rm.vercel.app)
+
 ## Course Link
 
-This project was created as part of [The Ultimate React Course 2024: React, Next.js, Redux & More](https://www.udemy.com/course/the-ultimate-react-course/) by Jonas Schmedtmann.
+This project was created as part of [The Ultimate React Course](https://www.udemy.com/course/the-ultimate-react-course/).
+
+## License
+
+This project is licensed under the MIT License.
 
 ---
 
